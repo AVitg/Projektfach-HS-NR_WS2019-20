@@ -12,6 +12,4 @@ Projektfach HS-NR Wintersemester 2019
 	* https://www.elastic.co/guide/en/logstash/current/index.html
 	* https://www.elastic.co/guide/en/kibana/current/index.html
 	
-  * Beispiel Daten
-    * http://old.honeynet.org/scans/scan34/SotM34-anton.tar.gz 
-		
+
