@@ -59,6 +59,7 @@
    - concentrate on timestamp, source ip, destination ip, source port, destination port
    - [hint1](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/2019_10_11/hints/hint1.conf)  
    - [hint2](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/2019_10_11/hints/hint2.md)
+   - [hint3](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/ELK/logstash/LAB/config/lab11.conf)
    
     
   
