@@ -13,14 +13,14 @@
 
 #### 2) ELK in a nutshell
 - (E)lasticsearch, (L)ogstash, (K)ibana
--- Diagramm Zusammenspiel Zeichnen
+-- Diagramm Zusammenspiel zeichnen
 - Elasticsearch
   - Suchmaschine
 - Logstash
-  - DatenTransport, modifikation, Filtern 
+  - DatenTransport (ein- und ausgehend), Modifikation, Filter 
 - Kibana
    - GUI für Elastic-Stack, nicht nur für elastricsearch
-- 
+
 
 #### 3) Logstash
 - wie sieht eine config Datei aus?
