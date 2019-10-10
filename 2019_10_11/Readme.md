@@ -46,12 +46,19 @@
 -     ./logstash-7.4.0/bin/logstash -f Projektfach-HS-NR_WS2019-20-master/ELK/logstash/LAB/config/lab01.conf 
        head iptablessyslog | nc localhost 22514 
      
-- Beobachte den output von logstash 
+- Beobachte den output von logstash
 - output nach elasticsearch und stdout
+  - [hint1](https://www.elastic.co/guide/en/logstash/7.4/output-plugins.html)
+  - [hint2](https://www.elastic.co/guide/en/logstash/7.4/plugins-outputs-elasticsearch.html)
 - suche der Daten in Kibana 
 
 
-#### 7) Grok
-
-
-
+#### 7) Grok - Parse arbitrary text and structure it
+- [Grok](https://www.elastic.co/guide/en/logstash/7.4/plugins-filters-grok.html)
+- iptables syslog "parsen"
+   - concentrate on timestamp, source ip, destination ip, source port, destination port
+   - [hint1](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/2019_10_11/hints/hint1.conf)  
+   - [hint2](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/2019_10_11/hints/hint2.md)
+   
+    
+  
