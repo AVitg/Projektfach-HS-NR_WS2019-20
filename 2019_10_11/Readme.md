@@ -1,0 +1,33 @@
+#### 11.10.2019
+### Importieren der VM und erste Erfahrung im Elastic (früher ELK)-Stack 
+
+#### 1) VM import + login
+- kopiere alle Daten vom USB-Sick, und gib weiter
+- installiere VirtualBox 
+- Importiere Virtuelle Machine von USB-Stick
+- Netzwerk / NAT anpassen 127.0.0.1 / 22 / - / 22
+- installiere MobaXterm
+- login (ssh mittels MobaXterm) in Virtuelle Maschine
+- longin (users und pw sind in der Beschreibung)
+ 
+
+#### 2) ELK in a nutshell
+- (E)lasticsearch, (L)ogstash, (K)ibana
+-- Diagramm Zusammenspiel Zeichnen
+- Elasticsearch
+  - Suchmaschine
+- Logstash
+  - DatenTransport, modifikation, Filtern 
+- Kibana
+   - GUI für Elastic-Stack, nicht nur für elastricsearch
+- 
+
+#### 3) Logstash
+- wie sieht eine config Datei aus?
+- https://www.elastic.co/guide/en/logstash/7.4/configuration-file-structure.html
+- einfaches input output sample
+  - [lab01.conf](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/ELK/logstash/LAB/config/lab01.conf)
+
+#### 4) Logstash
+
+
