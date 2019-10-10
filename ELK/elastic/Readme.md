@@ -1,6 +1,6 @@
-# Elastic parameters
+# Elasticsearch parameters
 
-- Start elastic with
+- Start elasticsearch with
    - ./elasticsearch-7.4.0/bin/elasticsearch -E network.host=0.0.0.0
   
 
