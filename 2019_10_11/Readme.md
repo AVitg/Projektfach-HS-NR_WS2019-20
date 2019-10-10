@@ -13,7 +13,7 @@
 
 #### 2) ELK in a nutshell
 - (E)lasticsearch, (L)ogstash, (K)ibana
--- Diagramm Zusammenspiel zeichnen
+  - Diagramm Zusammenspiel
 - Elasticsearch
   - Suchmaschine
 - Logstash
