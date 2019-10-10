@@ -31,7 +31,9 @@
   - [lab02.conf](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/ELK/logstash/LAB/config/lab02.conf)
   - [lab03.conf](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/ELK/logstash/LAB/config/lab04.conf)
 
-#### 4) Elastic
+#### 4) Elasticsearch
+-  [elasticsearch starten](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/ELK/elasticsearch/Readme.md)
+-  curl -XGET 'http://localhost:9200/'
 
 
 
