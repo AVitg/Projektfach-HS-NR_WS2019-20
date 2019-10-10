@@ -33,12 +33,25 @@
 
 #### 4) Elasticsearch
 -  [elasticsearch starten](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/ELK/elasticsearch/Readme.md)
--  curl -XGET 'http://localhost:9200/'
+-      curl -XGET 'http://localhost:9200/'
 
 #### 5) Kibana
  - [kibana starten](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/ELK/kibana/Readme.md)
  - einloggen browser via 'http://localhost:5601'
+ 
+ 
+#### 6) Get soma data in
+- [Scan of the Month honeynet project](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/Log-Samples/HoneyNetProject_ScanOfTheMonth/SotM34-anton.tar.gz)
+- SotM34\iptables\iptablesyslog
+-     ./logstash-7.4.0/bin/logstash -f Projektfach-HS-NR_WS2019-20-master/ELK/logstash/LAB/config/lab01.conf 
+       head iptablessyslog | nc localhost 22514 
+     
+- Beobachte den output von logstash 
+- output nach elasticsearch und stdout
+- suche der Daten in Kibana 
 
+
+#### 7) Grok
 
 
 
