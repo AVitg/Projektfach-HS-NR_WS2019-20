@@ -17,7 +17,7 @@
 - Elasticsearch
   - Suchmaschine
 - Logstash
-  - DatenTransport (ein- und ausgehend), Modifikation, Filter 
+  - DatenTransport (ein- und ausgehend), Modifikation 
 - Kibana
    - GUI für Elastic-Stack, nicht nur für elastricsearch
 
