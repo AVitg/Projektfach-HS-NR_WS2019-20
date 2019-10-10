@@ -35,5 +35,10 @@
 -  [elasticsearch starten](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/ELK/elasticsearch/Readme.md)
 -  curl -XGET 'http://localhost:9200/'
 
+#### 5) Kibana
+ - [kibana starten](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/ELK/kibana/Readme.md)
+ - einloggen browser via 'http://localhost:5601'
+
+
 
 
