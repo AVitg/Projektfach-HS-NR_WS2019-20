@@ -1,0 +1,1 @@
+eventtime, hostname, processname, direction, protocol, in-interface, in-physicalinterface, out-interface, out-pysicalinterface, source-ip, destination-ip, packet-lenght, type-of-service, precedence, timetolife, dontfragement, ip.packetid, protocol, sourceport, destinationport, window, res, syn, urgendpointer 
