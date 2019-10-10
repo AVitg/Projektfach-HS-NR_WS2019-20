@@ -62,6 +62,7 @@
    - [hint3](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/ELK/logstash/LAB/config/lab03.conf)
    - [hint4](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/ELK/logstash/LAB/config/lab11.conf)
    - [hint5](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/2019_10_11/hints/hint3.conf)
+   - [hint6 external](https://logz.io/blog/logstash-grok/)
    
     
   
