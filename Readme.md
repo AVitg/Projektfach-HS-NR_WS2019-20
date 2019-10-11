@@ -13,3 +13,5 @@ Projektfach HS-NR Wintersemester 2019
 	* https://www.elastic.co/guide/en/kibana/current/index.html
 	
 
+tmux
+https://linuxacademy.com/blog/linux/tmux-cheat-sheet/
