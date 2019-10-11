@@ -1,3 +1,7 @@
+* Aggregation/Zusammenfassen von logs
+  * https://www.elastic.co/guide/en/logstash/current/plugins-filters-aggregate.html 
+  * https://www.elastic.co/guide/en/logstash/current/plugins-filters-aggregate.html#plugins-filters-aggregate-example5
+
 * [liste von GROK/ Patterns](https://github.com/logstash-plugins/logstash-patterns-core/blob/master/patterns/grok-patterns)
 
 * tmux
