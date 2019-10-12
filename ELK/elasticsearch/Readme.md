@@ -6,7 +6,8 @@
    - Update both min (-Xms) and max (-Xmx) heap sizes to 512m (512MB)
 
 - vm 
-  -  hat noch "Fehler", bitte "[beseitigen"](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/tree/master/OS/configchanges)
+  -  hat noch "Fehler", bitte "[beseitigen"](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/tree/master/OS/configchanges) und reboote
+  - sudo reboot
   
 
 - Start elasticsearch mit
