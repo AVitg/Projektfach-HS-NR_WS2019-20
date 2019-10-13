@@ -10,4 +10,5 @@ OS Changes:
      *         hard    nofile      65535
 
  * firewall
-    firewall-cmd --zone=public --add-port=9200/tcp --permanent 
+    *  sudo firewall-cmd --zone=public --add-port=5601/tcp --permanent 
+    *  sudo firewall-cmd --reload
