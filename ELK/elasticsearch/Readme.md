@@ -11,7 +11,7 @@
   
 
 - Start elasticsearch mit
-   - ./elasticsearch-7.4.0/bin/elasticsearch -E network.host=0.0.0.0
+   - ./elasticsearch-7.4.0/bin/elasticsearch -E network.host=127.0.0.1
   
 - Erreichen der rest-api via \<IP\>:9200  (Erster freier port ab 9200 bis 9299)
 
