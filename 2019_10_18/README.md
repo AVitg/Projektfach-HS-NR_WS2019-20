@@ -6,6 +6,7 @@
   * VM starten, login via ssh, evtl. port 22022 sonst 22, [logstash starten](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/ELK/logstash/LAB/config/lab03.conf)
   *    head iptablesyslog  | nc localhost 22514
   * Regex Exkurs [LINK](http://www.regex101.com)
+  *  [samples](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/2019_10_18/samples.iptables)
 
 ## 2 GROK/iptables
 
