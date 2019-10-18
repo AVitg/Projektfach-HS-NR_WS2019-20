@@ -1,6 +1,7 @@
 # Projektfach_18_10_2019
 ## 0
   * yum install net-tools
+  * vm bitte noch [anpassen](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/tree/master/OS/configchanges)
 
 ## 1 Recap
   * VM starten, login via ssh, evtl. port 22022 sonst 22, [logstash starten](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/ELK/logstash/LAB/config/lab03.conf)
