@@ -48,5 +48,6 @@
   *  output nach elasticsearch und stdout
   *    [hint1](https://www.elastic.co/guide/en/logstash/7.4/output-plugins.html)
   *    [hint2](https://www.elastic.co/guide/en/logstash/7.4/plugins-outputs-elasticsearch.html)
+  *    [hint3](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/2019_10_18/hint3.conf)
   * Suche der Daten in Kibana
     *  index  
