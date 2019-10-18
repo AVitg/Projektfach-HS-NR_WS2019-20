@@ -13,7 +13,7 @@
   * [regex in GROK oder eigene "patterns"](https://www.elastic.co/guide/en/logstash/7.4/plugins-filters-grok.html#_custom_patterns)
   * [Liste von Grok Patterns](https://github.com/logstash-plugins/logstash-patterns-core/blob/master/patterns/grok-patterns)
   * erweitert [die Datei](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/2019_10_11/hints/hint3.conf) um source.port, destination.port  
-  * wie viele verschiedene log messages hat unsere Sample Datei?
+  * wie viele __verschiedene__ log messages hat unsere Sample Datei?
     * Tipp: "grep -v"
     * [hint](https://github.com/AVitg/Projektfach_18_10_2019/blob/master/GROK/hint_grok.png)  
   * iptables logs "vollständig" parsen
