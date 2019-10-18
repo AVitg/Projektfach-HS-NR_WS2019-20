@@ -19,6 +19,7 @@
     * [hint](https://github.com/AVitg/Projektfach_18_10_2019/blob/master/GROK/hint_grok.png)  
   * iptables logs "vollständig" parsen
   *   was heisst vollständig?
+  * [hint](https://github.com/AVitg/Projektfach_18_10_2019/blob/master/GROK/hint_grok.png)  
 
 
 ## 3 "Standardisierte" Log-Formate
