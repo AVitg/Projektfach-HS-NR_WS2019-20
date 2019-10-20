@@ -42,7 +42,7 @@
 
 #### 5.2 Kibana
   * [kibana starten](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/ELK/kibana/Readme.md)
-  * [vm firewall anpassen](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/2019_10_18/samples.iptables)
+  * [vm firewall anpassen](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/tree/master/OS/configchanges)
   * VirtualBox Port-Weiterleitung einrichten (NAT)
   * einloggen via Browser  [http://localhost:5601](http://localhost:5601)
 
