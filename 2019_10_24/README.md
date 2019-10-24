@@ -5,6 +5,13 @@
   *  --log-prefix TCP/udp
      *   -A INPUT -p udp -j LOG --log-prefix "iptables DROP udp: " 
 
+## 0.1 recap
+  *   vm
+  *   logstash
+  *   input/filter/output plugins
+  *   grok
+  *   regex
+  
 ## 1 Hands on:
   *   parsen von iptables
   *   parsen von snort logs
