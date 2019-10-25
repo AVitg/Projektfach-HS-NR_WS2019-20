@@ -4,6 +4,7 @@
      *    date, diff from now()?! --> [fix](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/2019_10_24/hints/fix_time_issue.md)
   *  --log-prefix TCP/udp
      *   -A INPUT -p udp -j LOG --log-prefix "iptables DROP udp: " 
+     *   [samples](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/2019_10_18/samples.iptables)
 
 ## 0.1 recap
   *   vm
