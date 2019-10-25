@@ -14,7 +14,7 @@
   *   regex
   
 ## 1 Hands on:
-  *   parsen von iptables
+  *   parsen von iptables ( name,S.address,S.port,D.address,D.port,TTL,protocol)
   *   parsen von snort logs
   *   cat iptablesyslog | sed s/'Drop udp after 23 attempts'/'Drop udp after 23 attempts:'/g > iptablesyslog.1
   *   cat iptablesyslog,1 | sed s/'Drop TCP after 17 attempts'/'Drop TCP after 17 attempts: '/g > iptablesyslog.2
