@@ -16,6 +16,8 @@
 ## 1 Hands on:
   *   parsen von iptables
   *   parsen von snort logs
+  *   cat iptablesyslog | sed s/'Drop udp after 23 attempts'/'Drop udp after 23 attempts:'/g > iptablesyslog.1
+  *   cat iptablesyslog,1 | sed s/'Drop TCP after 23 attempts'/'Drop TCP after 17 attempts: '/g > iptablesyslog.2
 
 ## 2 "Standardisierte" Log-Formate
   * (BTW: [syslog protocol](https://tools.ietf.org/html/rfc5424))
