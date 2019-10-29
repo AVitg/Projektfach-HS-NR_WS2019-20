@@ -1,4 +1,5 @@
-OS Changes:
+# OS Changes:
+als root!
 
   * /etc/sysctl.conf 
     * vm.max_map_count=262144 
@@ -12,3 +13,7 @@ OS Changes:
  * firewall
     *  sudo firewall-cmd --zone=public --add-port=5601/tcp --permanent 
     *  sudo firewall-cmd --reload
+    
+    
+ # install Packages 
+ *  yum install net-tools
