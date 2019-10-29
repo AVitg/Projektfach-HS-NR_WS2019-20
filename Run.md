@@ -1,5 +1,5 @@
 # Genral
-  *     [OS-Changes](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/OS/configchanges/Readme.md)
+  *    [OS-Changes](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/OS/configchanges/Readme.md)
 
 # Elastic
   *    Start elasticsearch:
