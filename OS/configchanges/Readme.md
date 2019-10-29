@@ -16,4 +16,4 @@ als root!
     
     
  # install Packages 
- *  yum install net-tools
+ *  sudo yum install net-tools
