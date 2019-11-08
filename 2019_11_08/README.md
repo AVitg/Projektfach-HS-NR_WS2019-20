@@ -7,7 +7,7 @@
 # 1 Rechereche und Vorstellung (Recherche ca 1,5 Std /Vorstellung je 15 Minuten)
 * Beats
   * was sind Beats
-  * Installation & Konfiguration für iptables
+  * Installation & Konfiguration für iptables über UDP
   * Demo - Bitte
   
 * Metasploitable - metasploitable-linux-2.0.0
