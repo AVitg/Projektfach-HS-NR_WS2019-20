@@ -1,0 +1,9 @@
+POST _reindex
+{
+  "source": {
+    "index": "samples_iptables"
+  },
+  "dest": {
+    "index": "samples_iptables_new_index"
+  }
+}
