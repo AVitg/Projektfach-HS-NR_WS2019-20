@@ -8,7 +8,7 @@
 * msfadmin/msfadmin
 
 ## 1.2 In Metasploitable ( Ubuntu Hardy Heron == 8.04 LTS (2008)) 
-* Firewall beispielhft "aufsetzen"
+* Firewall beispielhaft "aufsetzen"
   * iptables-save > iptables.dump
   * iptables-restore < iptables.dump
 * erzeuge eine ca. 100mb grosse Datei in /var/www/ mit zufälligem Inhalt
