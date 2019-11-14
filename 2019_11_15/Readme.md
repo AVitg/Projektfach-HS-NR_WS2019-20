@@ -68,5 +68,5 @@
 # 6 
 * [Att&ck Framwork](https://attack.mitre.org/) 
 * [IR-Sans 6 steps](https://www.cynet.com/cyber-attacks/incident-response-sans-the-6-steps-in-depth/)
-
+* https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1533071345.pdf
 
