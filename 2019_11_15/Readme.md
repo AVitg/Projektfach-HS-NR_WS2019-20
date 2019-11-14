@@ -39,9 +39,9 @@
 * date?!
 
 ## watcher
-https://www.elastic.co/videos/watcher-lab-creating-your-first-alert
-https://www.elastic.co/guide/en/x-pack/6.2/watcher-getting-started.html
-https://www.elastic.co/blog/introducing-logstash-input-http-plugin
+* https://www.elastic.co/videos/watcher-lab-creating-your-first-alert
+* https://www.elastic.co/guide/en/x-pack/6.2/watcher-getting-started.html
+* https://www.elastic.co/blog/introducing-logstash-input-http-plugin
 
 
 
