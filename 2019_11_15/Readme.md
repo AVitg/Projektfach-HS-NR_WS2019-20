@@ -3,13 +3,13 @@
 * NET-Netzwerk in VirtualBox konfigurieren
   * File/Properties/Network ...
   * beide VMs entsprechend konfigurieren
-* Datei von USB stick kopieren und in Virualbox/vmware importieren o.ä.
+* Datei von USB stick kopieren und in Virtualbox/vmware importieren o.ä.
 * VM starten und per Natting auf port 22 und port 80 erreichbar machen
 * msfadmin/msfadmin
 
 ## 1.2 In Metasploitable ( Ubuntu Hardy Heron == 8.04 LTS (2008)) 
 * Firewall beispielhaft "aufsetzen"
-  * iptables-save > iptables.dump
+  * iptables-save > iptables.dump (hier)[iptables.dump]
   * iptables-restore < iptables.dump
 * erzeuge eine ca. 100mb grosse Datei in /var/www/ mit zufälligem Inhalt
 * lade die Datei auf deinen Rechner herunter via des installierten Webservers  
