@@ -9,7 +9,7 @@
 
 ## 1.2 In Metasploitable ( Ubuntu Hardy Heron == 8.04 LTS (2008)) 
 * Firewall beispielhaft "aufsetzen"
-  * iptables-save > iptables.dump (hier)[iptables.dump]
+  * iptables-save > iptables.dump [hier](iptables.dump)
   * iptables-restore < iptables.dump
 * erzeuge eine ca. 100mb grosse Datei in /var/www/ mit zufälligem Inhalt
 * lade die Datei auf deinen Rechner herunter via des installierten Webservers  
