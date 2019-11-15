@@ -30,7 +30,7 @@ As part of the United States computer security defense initiative, red teams wer
 
 
 # 2 Red-Team-tasks - _Initial access_ 
-### in Elastic-VM
+## 2.1 in Elastic-VM
 * download metasploit
  * ```url https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall &&   chmod 755 msfinstall &&  sudo  ./msfinstall ```
 * starte msfconsole
