@@ -1,4 +1,4 @@
-#0 Blue- vs. Read-Team
+# 0 Blue- vs. Read-Team
 As part of the United States computer security defense initiative, red teams were developed to exploit other malicious entities that would do them harm. As a result, blue teams were developed to design defensive measures against such red team activities
 [wikipedia](https://en.wikipedia.org/wiki/Blue_team_(computer_security))
 
