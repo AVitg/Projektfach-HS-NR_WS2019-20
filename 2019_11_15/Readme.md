@@ -38,7 +38,7 @@ As part of the United States computer security defense initiative, red teams wer
  * search, use, show options, RHOST, RPORT, set payload, set LHOST (nicht 127.0.0.1)
 
 ## 2.2 PHP-Lücke - _Persistence_
-* manuell ohne metasploit ausnutzen und webshell hochladen (via webserver auf elasti-search vm)
+* manuell ohne metasploit ausnutzen und webshell hochladen (via webserver auf elasti-search vm) #1
 * logs?, watcher? 
 
 # 3 Blue-Team-tasks - _Identification_ 
