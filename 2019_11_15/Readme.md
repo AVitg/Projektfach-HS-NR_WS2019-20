@@ -23,6 +23,7 @@ As part of the United States computer security defense initiative, red teams wer
 * iptables und apache modul enablen und evtl. konfigurieren   
 * https://www.elastic.co/guide/en/beats/filebeat/current/filebeat-modules-quickstart.html
 * https://www.elastic.co/guide/en/beats/filebeat/current/filebeat-module-apache.html
+* !!UPDATE!! https://www.elastic.co/guide/en/beats/filebeat/master/filebeat-module-iptables.html
 * filebeat starten (Dateirechte/Root), elastic search und kibana anpassen, so dass sie "erreichbar sind" (config files)
 * events in kibana  http://127.0.0.1:5601/app/kibana ? suchen, testen!
 * date?!
