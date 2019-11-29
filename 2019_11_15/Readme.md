@@ -43,7 +43,7 @@ As part of the United States computer security defense initiative, red teams wer
 
 # 3 Blue-Team-tasks - _Identification_ 
 ## 3.1 in Kibana 
-* Events in kibana? suchen, testen!
+* apache und iptables Events in kibana? suchen, testen!
 * date?! index, timestamp
 
 ## 3.2 watcher
