@@ -6,6 +6,7 @@ Projektfach HS-NR Wintersemester 2019
 *  [24_10_2019](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/tree/master/2019_10_24/)
 *  [08_11_2019](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/tree/master/2019_11_08/)
 *  [15_11_2019](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/tree/master/2019_11_15/)
+*  [06_12_2019](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/tree/master/2019_12_06/)
 
 ## Elastic-Stack
   * Elastic - Stack downloads
