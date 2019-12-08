@@ -1,0 +1,21 @@
+GET packetbeat-7.4.2-2019.12.01-000001/_search
+{
+  "query": { 
+    "bool": { 
+      "must": [
+        { "match": { "type":   "dns"        }}
+      ],
+      "filter": [ 
+        { "range": { "@timestamp": { "gte": "now-3h" }}}
+      ]
+    }
+  },
+  "script_fields": {
+    "dns-length": {
+      "script": {
+        "lang": "painless",
+        "source": "if (doc.containsKey('dns.question.name')) { return doc['dns.question.name'].value.length()} return -1"
+      }
+    }
+  }
+}
