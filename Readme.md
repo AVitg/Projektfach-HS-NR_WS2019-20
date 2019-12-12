@@ -1,12 +1,7 @@
 # Projektfach-HS-NR_WS2019
 Projektfach HS-NR Wintersemester 2019
-*  [GetUPAndRunning](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/Run.md)
-*  [11_10_2019](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/2019_10_11/)
-*  [18_10_2019](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/2019_10_18/)
-*  [24_10_2019](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/tree/master/2019_10_24/)
-*  [08_11_2019](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/tree/master/2019_11_08/)
-*  [15_11_2019](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/tree/master/2019_11_15/)
-*  [06_12_2019](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/tree/master/2019_12_06/)
+*  //[GetUPAndRunning](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/Run.md)
+*  [13_12_2019](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/tree/master/2019_12_13/)
 
 ## Elastic-Stack
   * Elastic - Stack downloads
@@ -26,3 +21,13 @@ Projektfach HS-NR Wintersemester 2019
   
 * vim
   * [Cheat-Sheet](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/Library/Linux/vim_cheat_sheet.png) Quelle https://i.redd.it/ve1jv3m3qqj21.png 
+
+
+##"old"
+
+*  [11_10_2019](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/2019_10_11/)
+*  [18_10_2019](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/blob/master/2019_10_18/)
+*  [24_10_2019](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/tree/master/2019_10_24/)
+*  [08_11_2019](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/tree/master/2019_11_08/)
+*  [15_11_2019](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/tree/master/2019_11_15/)
+*  [06_12_2019](https://github.com/AVitg/Projektfach-HS-NR_WS2019-20/tree/master/2019_12_06/)
