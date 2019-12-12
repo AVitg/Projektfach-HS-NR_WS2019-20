@@ -1,32 +1,33 @@
-https://www.elastic.co/guide/en/elasticsearch/reference/current/rpm.html
-https://www.elastic.co/guide/en/kibana/current/rpm.html
+# Installiere Elastic Search 7.5 , kibana und filebeat 
+*  https://www.elastic.co/guide/en/elasticsearch/reference/current/rpm.html
+*  https://www.elastic.co/guide/en/kibana/current/rpm.html
 
-install elasticsearch, kibana,  filebeat
+*  yum install elasticsearch kibana filebeat
 
+# Konfiguriere elastic
+ * vi /etc/elasticsearch/elasticsearch.yml
+    *  change:
+    *  node.name: node-1
+    * cluster.initial_master_nodes: ["node-1"]
 
-vi /etc/elasticsearch/elasticsearch.yml
-change:
-node.name: node-1
-cluster.initial_master_nodes: ["node-1"]
+*  logs:
+    * /var/log/elasticsearch/
 
-logs:
-/var/log/elasticsearch/
+# Konfiguriere filebeat
+*  filebeat modules enable system
+*  filebeat setup -e
 
+* filebeat data in Kibana sichtar?
 
+(keine hint: GET _nodes/stats/ingest)
 
-filebeat modules enable system
-filebeat setup -e
+# Erzeugen und finden von CVE-2019-14287 
 
-check for data in filebeat
+*  https://sysdig.com/blog/detecting-cve-2019-14287/
 
-GET _nodes/stats/ingest
-
-https://sysdig.com/blog/detecting-cve-2019-14287/
-
-enable 30-days trial
-
-add watcher
-
-https://www.elastic.co/guide/en/elasticsearch/reference/7.5/watching-meetup-data.html
-
-POST _watcher/watch/meetup/_execute
+* Kibana, lizenzmanagement:
+    * enable 30-days trial
+*  add watcher
+*  https://www.elastic.co/guide/en/elasticsearch/reference/7.5/watching-meetup-data.html
+* Watcher Ausführe 
+    * POST _watcher/watch/<watchername>/_execute
