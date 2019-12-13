@@ -17,9 +17,9 @@
 *  filebeat modules enable system
 *  filebeat setup -e
 
-* filebeat data in Kibana sichtar?
+* filebeat data in Kibana sichtbar?
 
-(keine hint: GET _nodes/stats/ingest)
+(kein hint: GET _nodes/stats/ingest)
 
 # Erzeugen und finden von CVE-2019-14287 
 
