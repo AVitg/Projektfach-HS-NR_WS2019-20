@@ -2,7 +2,7 @@
 *  https://www.elastic.co/guide/en/elasticsearch/reference/current/rpm.html
 *  https://www.elastic.co/guide/en/kibana/current/rpm.html
 
-*  yum install elasticsearch kibana filebeat
+*  installiere elasticsearch kibana filebeat
 
 # Konfiguriere elastic
  * vi /etc/elasticsearch/elasticsearch.yml
