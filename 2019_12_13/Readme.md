@@ -30,4 +30,4 @@
 *  add watcher
 *  https://www.elastic.co/guide/en/elasticsearch/reference/7.5/watching-meetup-data.html
 * Watcher Ausführe 
-    * POST _watcher/watch/<watchername>/_execute
+    * POST _watcher/watch/..watchername../_execute
