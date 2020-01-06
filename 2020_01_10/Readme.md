@@ -10,7 +10,7 @@
      *  systemctl status kibana
       ![image](images/systemctl_kibana.PNG)
      *  sudo journalctl -u kibana
-     *  netstat -tuan |grep -E 5601
+     *  netstat -tuan |grep 5601
 
   * auditbeat
     *  systemctl status auditbeat
