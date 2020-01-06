@@ -1,11 +1,18 @@
 # 0 Lange nicht da - Alles Okay?
 ## 0.1 läuft unser "Stack" noch?
-  *  systemctl status elasticsearch
-  ![image](images/systemctl_elasticsearch.PNG)
-  *  systemctl status kibana
-  ![image](images/systemctl_kibana.PNG)
-  *  systemctl status auditbeat
-  ![image](images/systemctl_auditbeat.PNG)
+  * elasticsearch  
+    *  systemctl status elasticsearch
+    ![image](images/systemctl_elasticsearch.PNG)
+     *  sudo journalctl -u elasticsearch
+     *  sudo tail -f /var/log/elasticsearch/elasticsearch.log
 
-*  netstat -tuan |grep -E "5601|9300|9200"
+  * kibana   
+     *  systemctl status kibana
+      ![image](images/systemctl_kibana.PNG)
+     *  sudo journalctl -u kibana
+     *  netstat -tuan |grep -E 5601
 
+  * auditbeat
+    *  systemctl status auditbeat
+    ![image](images/systemctl_auditbeat.PNG)
+    *  sudo journalctl -u auditbeat
