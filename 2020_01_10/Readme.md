@@ -11,8 +11,11 @@
       ![image](images/systemctl_kibana.PNG)
      *  sudo journalctl -u kibana
      *  netstat -tuan |grep 5601
+     *  [http://localhost:5601/](http://localhost:5601/)
 
   * auditbeat
     *  systemctl status auditbeat
     ![image](images/systemctl_auditbeat.PNG)
     *  sudo journalctl -u auditbeat
+
+## 
