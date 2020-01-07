@@ -6,8 +6,8 @@
      *  sudo journalctl -u elasticsearch
      *  sudo tail -f /var/log/elasticsearch/elasticsearch.log
      *  if-not: 
-       *  systemctl start elasticsearch
-       *  systemctl enabel elasticsearch
+         *  systemctl start elasticsearch
+         *  systemctl enabel elasticsearch
 
   * kibana   
      *  systemctl status kibana
@@ -16,15 +16,15 @@
      *  netstat -tuan |grep 5601
      *  [http://localhost:5601/](http://localhost:5601/)
      *  if-not: 
-       *  systemctl start kibana
-       *  systemctl enabel kibana
+         *  systemctl start kibana
+         *  systemctl enabel kibana
 
   * auditbeat
     *  systemctl status auditbeat
     ![image](images/systemctl_auditbeat.PNG)
     *  sudo journalctl -u auditbeat
     *  if-not: 
-       *  systemctl start auditbeat
-       *  systemctl enabel auditbeat
+         *  systemctl start auditbeat
+         *  systemctl enabel auditbeat
 
 ## 
