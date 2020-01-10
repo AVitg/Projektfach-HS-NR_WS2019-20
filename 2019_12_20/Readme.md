@@ -13,5 +13,5 @@
 ### Using blue team techniques in red team ops (Mark Bergman & Marc Smeets)
  * https://www.youtube.com/watch?v=OjtftdPts4g
  * https://www.delaat.net/rp/2017-2018/p89/report.pdf
-
+ * redFile https://github.com/outflanknl/RedFile
 
