@@ -4,6 +4,9 @@
 * https://attack.mitre.org/
 * https://github.com/hunters-forge/ATTACK-Python-Client
 * https://github.com/hunters-forge/OSSEM
+* https://github.com/hunters-forge/mordor
+* https://github.com/hunters-forge
+* etc...
 
 
 
