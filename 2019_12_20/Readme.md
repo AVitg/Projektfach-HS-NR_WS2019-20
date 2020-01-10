@@ -3,6 +3,7 @@
 * source (https://www.x33fcon.com/#!archive/2019/con.md)
 * https://attack.mitre.org/
 * https://github.com/hunters-forge/ATTACK-Python-Client
+* https://github.com/hunters-forge/OSSEM
 
 
 
