@@ -32,7 +32,7 @@ As part of the United States computer security defense initiative, red teams wer
 # 2 Red-Team-tasks - _Initial access_ 
 ## 2.1 in Elastic-VM
 * download metasploit
- * ```url https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall &&   chmod 755 msfinstall &&  sudo  ./msfinstall ```
+ * ```curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall &&   chmod 755 msfinstall &&  sudo  ./msfinstall ```
 * starte msfconsole
 * Exploite die php-Lücke in Metasploitable (hint 2012)
  * search, use, show options, RHOST, RPORT, set payload, set LHOST (nicht 127.0.0.1)
